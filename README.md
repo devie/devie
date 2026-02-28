@@ -22,17 +22,19 @@ I build web applications and backend services with a focus on **AI integration**
 **AI & Tools**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-000000?style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Stock Checker](https://github.com/devie/claude-test-stock-check-a1) | CLI tool for stock market analysis with technical indicators & chart generation | Python, yfinance, Matplotlib |
-
-*More projects coming soon — currently building portfolio pieces.*
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| [StockAlpha](https://github.com/devie/claude-test-stock-check-a1) | Stock market analysis with technical indicators, AI insights & interactive charts | Python, Flask, yfinance, Plotly | [stock.zuhdi.id](https://stock.zuhdi.id) |
+| [DataForge API](https://github.com/devie/dataforge-api) | Production-ready REST API with API key auth, rate limiting & auto-generated docs | FastAPI, SQLAlchemy, slowapi | [api.zuhdi.id](https://api.zuhdi.id/docs) |
+| [GroqMind](https://github.com/devie/groqmind) | AI assistant with streaming responses, conversation memory & persona switching | FastAPI, Groq SDK, SSE | [chat.zuhdi.id](https://chat.zuhdi.id) |
+| [NexaFlow CRM](https://github.com/devie/nexaflow-crm) | Lightweight CRM for freelancers — manage clients, projects & invoices | FastAPI, SQLAlchemy, JWT | [crm.zuhdi.id](https://crm.zuhdi.id) |
 
 ## Currently
 
