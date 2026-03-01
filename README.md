@@ -10,6 +10,7 @@ I build web applications and backend services with a focus on **AI integration**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
@@ -17,12 +18,14 @@ I build web applications and backend services with a focus on **AI integration**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **AI & Tools**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
@@ -31,10 +34,10 @@ I build web applications and backend services with a focus on **AI integration**
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| [StockAlpha](https://github.com/devie/claude-test-stock-check-a1) | Stock market analysis with technical indicators, AI insights & interactive charts | Python, Flask, yfinance, Plotly | [stock.zuhdi.id](https://stock.zuhdi.id) |
-| [DataForge API](https://github.com/devie/dataforge-api) | Production-ready REST API with API key auth, rate limiting & auto-generated docs | FastAPI, SQLAlchemy, slowapi | [api.zuhdi.id](https://api.zuhdi.id/docs) |
-| [GroqMind](https://github.com/devie/groqmind) | AI assistant with streaming responses, conversation memory & persona switching | FastAPI, Groq SDK, SSE | [chat.zuhdi.id](https://chat.zuhdi.id) |
-| [NexaFlow CRM](https://github.com/devie/nexaflow-crm) | Lightweight CRM for freelancers — manage clients, projects & invoices | FastAPI, SQLAlchemy, JWT | [crm.zuhdi.id](https://crm.zuhdi.id) |
+| [StockAlpha](https://github.com/devie/claude-test-stock-check-a1) | Stock market analysis platform — interactive charts, sector-aware scoring, financial modelling, AI recommendations, portfolio management | Python, Flask, yfinance, Plotly, Groq/Anthropic/OpenAI | [stock.zuhdi.id](https://stock.zuhdi.id) |
+| [NexaFlow CRM](https://github.com/devie/nexaflow-crm) | Freelancer CRM — contacts, projects with 3-level summary, invoice workflow (PDF + email), multi-currency, milestones, communication history | FastAPI, Vue 3, SQLAlchemy, xhtml2pdf | [crm.zuhdi.id](https://crm.zuhdi.id) |
+| [GroqMind](https://github.com/devie/groqmind) | AI chat assistant — streaming responses, conversation memory, persona switching, model selection | FastAPI, Groq SDK, SSE | [chat.zuhdi.id](https://chat.zuhdi.id) |
+| [DataForge API](https://github.com/devie/dataforge-api) | Production-ready REST API — API key auth, rate limiting, products CRUD, currency converter, analytics, auto-generated docs | FastAPI, SQLAlchemy, slowapi | [api.zuhdi.id](https://api.zuhdi.id/docs) |
 
 ## Currently
 
