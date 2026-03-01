@@ -49,4 +49,4 @@ I build web applications and backend services with a focus on **AI integration**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:awaloeddin@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/devie)
-[![Website](https://img.shields.io/badge/Website-zuhdi.id-blue?style=flat)](https://api.zuhdi.id)
+[![Website](https://img.shields.io/badge/Website-zuhdi.id-blue?style=flat)](https://api.zuhdi.id/docs/)
