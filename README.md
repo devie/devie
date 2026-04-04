@@ -34,6 +34,8 @@ I build web applications and backend services with a focus on **AI integration**
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
+| [Network Traffic Dashboard](https://github.com/devie/network-traffic-dashboard) | Telecom network performance dashboard — site-level KPIs, availability heatmap, interactive map with drill-down (Province→Site), traffic trends, executive summary view | FastAPI, DuckDB, Alpine.js, Leaflet, Chart.js, Tailwind CSS | [network.zuhdi.id](https://network.zuhdi.id) |
+| IncidentTrack *(private — internal use)* | Automated incident data pipeline — ingests structured attachments via cloud sync, parses PDF reports and Excel sheets, loads to SQLite, web dashboard for pattern analysis and reporting | Flask, SQLite, pdfplumber, openpyxl, PDF.js | — |
 | [StockAlpha](https://github.com/devie/claude-test-stock-check-a1) | Stock market analysis platform — interactive charts, sector-aware scoring, financial modelling, AI recommendations, portfolio management | Python, Flask, yfinance, Plotly, Groq/Anthropic/OpenAI | [stock.zuhdi.id](https://stock.zuhdi.id) |
 | [NexaFlow CRM](https://github.com/devie/nexaflow-crm) | Freelancer CRM — contacts, projects with 3-level summary, invoice workflow (PDF + email), multi-currency, milestones, communication history | FastAPI, Vue 3, SQLAlchemy, xhtml2pdf | [crm.zuhdi.id](https://crm.zuhdi.id) |
 | [GroqMind](https://github.com/devie/groqmind) | AI chat assistant — streaming responses, conversation memory, persona switching, model selection | FastAPI, Groq SDK, SSE | [chat.zuhdi.id](https://chat.zuhdi.id) |
